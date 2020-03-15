@@ -9,9 +9,8 @@ end
 
 def monopoly
 	monopoly = {railroads: {}}
-
 end
-binding.pry
+
 def monopoly_with_second_tier
 	monopoly = {railroads: {:pieces =>4}}
 
