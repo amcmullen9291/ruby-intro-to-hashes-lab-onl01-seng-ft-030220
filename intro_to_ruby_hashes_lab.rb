@@ -17,7 +17,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  	monopoly = {railroads: [:pieces, :names =>{}]}
+  	monopoly = {railroads: [:pieces, :names =>{""}]}
 
 end
 
