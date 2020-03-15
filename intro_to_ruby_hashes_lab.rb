@@ -1,3 +1,4 @@
+require 'pry'
 def new_hash
 new_hash={}
 end
@@ -10,7 +11,7 @@ def monopoly
 	monopoly = {railroads: {}}
 
 end
-
+binding.pry
 def monopoly_with_second_tier
 	monopoly = {railroads: {:pieces =>4}}
 
